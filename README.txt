@@ -1,9 +1,25 @@
-Credits :
---------- 
 
-=> Design & developed: "WebThemez"  http://webthemez.com 
-=> Bootstrap : http://getbootstrap.com/
-=> Fontawesome : https://fortawesome.github.io/Font-Awesome/
-=> Fonts : https://www.google.com/fonts
-=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
-=> Carousel : http://owlgraphic.com/owlcarousel/
+TITLE: 
+Solution - 100% Fully Responsive Free HTML5 Bootstrap 4 Template
+
+AUTHOR:
+DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+Website: http://gettemplates.co/ http://freehtml5.co/
+Released
+
+
+
+CREDITS:
+
+Bootstrap
+http://getbootstrap.com/
+
+jQuery
+http://jquery.com/
+
+Owl Carousel
+https://owlcarousel2.github.io/OwlCarousel2/
+
+Demo Images:
+http://unsplash.com
+
